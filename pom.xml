@@ -139,7 +139,7 @@
   </pluginRepositories>
 
   <properties>
-    <apache.curator.version>2.1.0-incubating</apache.curator.version>
+    <apache.curator.version>4.0.1</apache.curator.version>
     <checkstyle.path>build/checkstyle/</checkstyle.path>
     <cxf.version>2.7.0</cxf.version>
     <findbugs.path>build/findbugs</findbugs.path>
